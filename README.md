@@ -1,6 +1,6 @@
 # Database_installs
 
-##MySQL install
+## MySQL install
 
 #### Update your system
 `sudo yum update`
